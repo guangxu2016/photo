@@ -1,0 +1,31 @@
+npm init -y 初始化 expres.json
+
+初始化
+npm init -y
+
+
+npm install express  下载express包
+06-------------
+下载express-art-template    art-template -S
+9-----？？？
+npm install body-parser -S
+
+
+npm insatll mysql -S
+
+nodemon
+npm i -g nodemon全局
+nodemon ./路径
+
+
+大4 express-art-template mysql   art-template -S
+
+
+
+
+
+
+
+
+
+
